@@ -1,4 +1,4 @@
-# hello-World
+# Hello-World
 This is my first Github repository.
 I am currently learning computer science and self taught programmer.
 I hope to break into the software developement industry as I learn more and more.
